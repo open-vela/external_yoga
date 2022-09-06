@@ -65,9 +65,3 @@ Carthage/Build
 .gradle
 # NDK/CMake
 .externalNativeBuild
-
-# Nuttx
-*.o
-.built
-.depend
-Make.dep
