@@ -65,3 +65,7 @@ Carthage/Build
 .gradle
 # NDK/CMake
 .externalNativeBuild
+*.o
+yoga/*.o
+yoga/event/*.o
+yoga/internal/*.o
