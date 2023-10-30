@@ -70,5 +70,10 @@ local.properties
 .cxx
 .externalNativeBuild
 
+*.o
+yoga/*.o
+yoga/event/*.o
+yoga/internal/*.o
+
 # Docusarus build
 .docusaurus
